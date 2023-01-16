@@ -1,0 +1,15 @@
+D:\учеба всё\ООП\Лабы\Lab1Calculyator\bin\Debug\netcoreapp3.1\Lab1Calculyator.exe
+D:\учеба всё\ООП\Лабы\Lab1Calculyator\bin\Debug\netcoreapp3.1\Lab1Calculyator.deps.json
+D:\учеба всё\ООП\Лабы\Lab1Calculyator\bin\Debug\netcoreapp3.1\Lab1Calculyator.runtimeconfig.json
+D:\учеба всё\ООП\Лабы\Lab1Calculyator\bin\Debug\netcoreapp3.1\Lab1Calculyator.runtimeconfig.dev.json
+D:\учеба всё\ООП\Лабы\Lab1Calculyator\bin\Debug\netcoreapp3.1\Lab1Calculyator.dll
+D:\учеба всё\ООП\Лабы\Lab1Calculyator\bin\Debug\netcoreapp3.1\Lab1Calculyator.pdb
+D:\учеба всё\ООП\Лабы\Lab1Calculyator\obj\Debug\netcoreapp3.1\Lab1Calculyator.csprojAssemblyReference.cache
+D:\учеба всё\ООП\Лабы\Lab1Calculyator\obj\Debug\netcoreapp3.1\Lab1Calculyator.Form1.resources
+D:\учеба всё\ООП\Лабы\Lab1Calculyator\obj\Debug\netcoreapp3.1\Lab1Calculyator.csproj.GenerateResource.cache
+D:\учеба всё\ООП\Лабы\Lab1Calculyator\obj\Debug\netcoreapp3.1\Lab1Calculyator.AssemblyInfoInputs.cache
+D:\учеба всё\ООП\Лабы\Lab1Calculyator\obj\Debug\netcoreapp3.1\Lab1Calculyator.AssemblyInfo.cs
+D:\учеба всё\ООП\Лабы\Lab1Calculyator\obj\Debug\netcoreapp3.1\Lab1Calculyator.csproj.CoreCompileInputs.cache
+D:\учеба всё\ООП\Лабы\Lab1Calculyator\obj\Debug\netcoreapp3.1\Lab1Calculyator.dll
+D:\учеба всё\ООП\Лабы\Lab1Calculyator\obj\Debug\netcoreapp3.1\Lab1Calculyator.pdb
+D:\учеба всё\ООП\Лабы\Lab1Calculyator\obj\Debug\netcoreapp3.1\Lab1Calculyator.genruntimeconfig.cache

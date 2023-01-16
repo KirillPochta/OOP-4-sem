@@ -1,0 +1,111 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "WindowsFormsApp1/1.0.0": {
+        "dependencies": {
+          "AWSSDK.DynamoDBv2": "3.5.4.30",
+          "Microsoft.Activities.Extensions": "2.0.6.9",
+          "Newtonsoft.Json": "12.0.3",
+          "System.ComponentModel.Annotations": "5.0.0"
+        },
+        "runtime": {
+          "WindowsFormsApp1.dll": {}
+        }
+      },
+      "AWSSDK.Core/3.5.3.1": {
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.Core.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.5.3.1"
+          }
+        }
+      },
+      "AWSSDK.DynamoDBv2/3.5.4.30": {
+        "dependencies": {
+          "AWSSDK.Core": "3.5.3.1"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.DynamoDBv2.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.5.4.30"
+          }
+        }
+      },
+      "Microsoft.Activities.Extensions/2.0.6.9": {
+        "runtime": {
+          "lib/Net45/Microsoft.Activities.Extensions.Design.dll": {
+            "assemblyVersion": "2.0.6.9",
+            "fileVersion": "2.0.6.9"
+          },
+          "lib/Net45/Microsoft.Activities.Extensions.dll": {
+            "assemblyVersion": "2.0.6.9",
+            "fileVersion": "2.0.6.9"
+          }
+        }
+      },
+      "Newtonsoft.Json/12.0.3": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.3.23909"
+          }
+        }
+      },
+      "System.ComponentModel.Annotations/5.0.0": {
+        "runtime": {
+          "lib/netstandard2.1/System.ComponentModel.Annotations.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.20.51904"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WindowsFormsApp1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AWSSDK.Core/3.5.3.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Xjboie+bCfy2hCVDJF9f42issyEtD5QldQG0+m6cu28UVGiKVzxFckXmnglM/2Jyk/jKTooOfcdndWl5Rl/QGw==",
+      "path": "awssdk.core/3.5.3.1",
+      "hashPath": "awssdk.core.3.5.3.1.nupkg.sha512"
+    },
+    "AWSSDK.DynamoDBv2/3.5.4.30": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-NdYEGs2yVf7d0w3uD6gmst+gDaxY8anGttLi57MvVkSFWiZBvuINwqJ7TA3UKem/ev3z/4DR17YPeZ4k4DKGdA==",
+      "path": "awssdk.dynamodbv2/3.5.4.30",
+      "hashPath": "awssdk.dynamodbv2.3.5.4.30.nupkg.sha512"
+    },
+    "Microsoft.Activities.Extensions/2.0.6.9": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-yGwK3gYUzzGIzgybBtXsCbcWIj+Dv+gadnaWkmG0WpBs22AV8ZS7deFhAb2pznDoGz0Pj4M7Tt9RwK9VrNzf4A==",
+      "path": "microsoft.activities.extensions/2.0.6.9",
+      "hashPath": "microsoft.activities.extensions.2.0.6.9.nupkg.sha512"
+    },
+    "Newtonsoft.Json/12.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
+      "path": "newtonsoft.json/12.0.3",
+      "hashPath": "newtonsoft.json.12.0.3.nupkg.sha512"
+    },
+    "System.ComponentModel.Annotations/5.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-dMkqfy2el8A8/I76n2Hi1oBFEbG1SfxD2l5nhwXV3XjlnOmwxJlQbYpJH4W51odnU9sARCSAgv7S3CyAFMkpYg==",
+      "path": "system.componentmodel.annotations/5.0.0",
+      "hashPath": "system.componentmodel.annotations.5.0.0.nupkg.sha512"
+    }
+  }
+}
